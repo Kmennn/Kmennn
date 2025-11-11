@@ -34,7 +34,7 @@ Responsive data dashboard analyzing social-media trend velocity using interactiv
 #### 🎥 Python Video Launcher
 Desktop video player built with **Python, Tkinter, and OpenCV**, featuring smooth frame rendering and custom controls.  
 **Tech:** Python, Tkinter, OpenCV  
-**Repo:** [Python Video Launcher](#)
+**Repo:** [Python Video Launcher](https://github.com/Kmennn/Python-Video-Launcher)
 
 ---
 
