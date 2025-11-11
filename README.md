@@ -27,7 +27,7 @@ I love building products that merge data, design, and interactivity — turning 
 #### 🧩 Social Media Trend Analyzer
 Responsive data dashboard analyzing social-media trend velocity using interactive charts and analytics pipelines.  
 **Tech:** JavaScript, React, Data Visualization  
-**Repo:** [Social Media Trend Analyzer](#) _(add link once uploaded)_
+**Repo:** [Social Media Trend Analyzer](https://trendtracker-19313325-78725.web.app/)
 
 ---
 
