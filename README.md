@@ -1,73 +1,69 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Virendra Mahajan"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d2847&height=220&section=header&text=Virendra%20Mahajan&fontSize=44&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Cloud%20Architecture&descSize=15&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<br/><br/>
-
-<a href="https://kmennn.github.io/Virendra-Mahajan/">Portfolio</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/virendra-mahajan-44a3b7294">LinkedIn</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="mailto:virendramahajan2005@gmail.com">Email</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="https://github.com/Kmennn">GitHub</a>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=45&lines=B.Tech+CS+%40+MIT+ADT+University+(2023%E2%80%932027);Building+production+systems+that+scale;3+Internships+%C2%B7+8%2B+Shipped+Projects;Oracle+%7C+AWS+%7C+Johns+Hopkins+Certified" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kmennn&style=flat-square&color=0d1117&label=views&labelColor=0d1117" alt="views"/>
+<!-- SOCIAL LINKS -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://kmennn.github.io/Virendra-Mahajan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/virendra-mahajan-44a3b7294)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:virendramahajan2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/Kmennn)
+
+<img src="https://komarev.com/ghpvc/?username=Kmennn&style=flat-square&color=161b22&label=Profile+Views&labelColor=0d1117" alt="Profile Views"/>
 
 </div>
 
-<br/><br/>
+---
 
-> Third-year B.Tech Computer Science student at MIT ADT University, building production systems across the full stack — from 3D-rendered analytics dashboards to autonomous desktop agents. Three internships. Eight shipped projects. Certified across Oracle, AWS, Johns Hopkins, and Microsoft.
+### About Me
 
-<br/>
+Third-year Computer Science undergrad at **MIT ADT University** with hands-on experience across 3 internships — building full-stack platforms, data science pipelines, and cloud-native applications.
 
-I think in systems. I ship in code.
+I obsess over clean architecture, data-driven decision-making, and shipping things that actually work. My projects range from 3D analytics dashboards with ML backends to autonomous desktop agents with local LLM inference.
 
-<br/><br/>
+Currently diving deeper into applied ML, real-time systems, and cloud infrastructure.
 
 ---
 
-<br/>
-
-<h3 align="center">Featured Work</h3>
-
-<br/>
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/TrendTracker-plus-">TrendTracker+</a></h4>
+#### [`TrendTracker+`](https://github.com/Kmennn/TrendTracker-plus-)
+**Real-Time Trend Intelligence Platform**
 
-<sub>Real-time trend intelligence platform</sub>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=fff)
 
-<br/><br/>
+3D immersive landing (R3F + GLSL shaders) · ML virality prediction · AI market commentary via Gemini · Prophet forecasting · Firebase JWT auth · Cron-based data pipeline
 
-`React` `Node.js` `Python` `Firebase` `Vertex AI` `Three.js` `XGBoost`
-
-<br/>
-
-3D immersive landing built with R3F and GLSL shaders. ML virality prediction pipeline. AI-powered market commentary via Gemini. Prophet time-series forecasting. Firebase JWT auth. Cron-based stock data refresh.
-
-<br/>
-
-<sub><a href="https://kmennn.github.io/TrendTracker-plus-/">Live Demo</a> &nbsp; · &nbsp; <a href="https://github.com/Kmennn/TrendTracker-plus-">Source</a></sub>
+[`Live Demo`](https://kmennn.github.io/TrendTracker-plus-/) · [`Source`](https://github.com/Kmennn/TrendTracker-plus-)
 
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/ARGUS-Technology-Intelligence-Forecasting">ARGUS</a></h4>
+#### [`ARGUS`](https://github.com/Kmennn/ARGUS-Technology-Intelligence-Forecasting)
+**Technology Intelligence & Forecasting**
 
-<sub>Technology intelligence & forecasting</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=fff)
 
-<br/><br/>
+Momentum tracking · Signal emergence detection · TRL maturity analysis · Trajectory forecasting · Institutional-grade editorial UI · Data-driven intelligence platform
 
-`TypeScript` `Next.js` `D3.js` `Framer Motion`
-
-<br/>
-
-Momentum tracking. Signal emergence detection. TRL assessment and maturity analysis. Trajectory forecasting. Institutional-grade editorial UI. Data-driven technology intelligence platform.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/ARGUS-Technology-Intelligence-Forecasting">Source</a></sub>
+[`Source`](https://github.com/Kmennn/ARGUS-Technology-Intelligence-Forecasting)
 
 </td>
 </tr>
@@ -75,40 +71,32 @@ Momentum tracking. Signal emergence detection. TRL assessment and maturity analy
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/sentient-os">Sentient OS</a></h4>
+#### [`Sentient OS`](https://github.com/Kmennn/sentient-os)
+**Intent-Driven Autonomous Desktop System**
 
-<sub>Intent-driven autonomous desktop system</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=fff)
 
-<br/><br/>
+3-layer autonomous architecture (Brain/Body/Face) · FastAPI cognitive runtime · Local-first LLM via Ollama · Safety-gated action execution · OCR pipeline
 
-`Python` `FastAPI` `Flutter` `Ollama` `WebSockets`
-
-<br/>
-
-Three-layer autonomous architecture — Brain, Body, Face. FastAPI cognitive runtime. Local-first LLM execution via Ollama. Safety-gated physical action execution. Full OCR pipeline.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/sentient-os">Source</a></sub>
+[`Source`](https://github.com/Kmennn/sentient-os)
 
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/Office-of-Strategic-Intelligence">Office of Strategic Intelligence</a></h4>
+#### [`Office of Strategic Intelligence`](https://github.com/Kmennn/Office-of-Strategic-Intelligence)
+**National Power Structural Analysis**
 
-<sub>National power structural analysis platform</sub>
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=fff)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=fff)
 
-<br/><br/>
+42-page analytical platform · 5-nation structural analysis · 18 typed data registries (1700s–present) · SHA-256 signed PDF exports · Deterministic forecasting engine
 
-`React 19` `TypeScript` `D3.js` `Zustand` `Vercel`
-
-<br/>
-
-42-page analytical platform covering five nations. 18 typed data registries spanning 1700s to present. SHA-256 signed PDF exports. Deterministic forecasting and scenario simulation engine.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/Office-of-Strategic-Intelligence">Source</a></sub>
+[`Source`](https://github.com/Kmennn/Office-of-Strategic-Intelligence)
 
 </td>
 </tr>
@@ -116,40 +104,31 @@ Three-layer autonomous architecture — Brain, Body, Face. FastAPI cognitive run
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/Aqua">AquaHome</a></h4>
+#### [`AquaHome`](https://github.com/Kmennn/Aqua)
+**Smart Water Usage Analytics**
 
-<sub>Smart water usage analytics dashboard</sub>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff)
 
-<br/><br/>
+Real-time IoT water monitoring · Firebase sensor telemetry · AI conservation insights via Gemini · Leak detection system · Multi-range toggle analytics
 
-`Next.js` `TypeScript` `Firebase` `Gemini AI` `Recharts`
-
-<br/>
-
-Real-time IoT water monitoring. Firebase Realtime DB sensor telemetry. AI-driven conservation insights via Gemini. Threshold-based leak detection. Multi-range toggle analytics.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/Aqua">Source</a></sub>
+[`Source`](https://github.com/Kmennn/Aqua)
 
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/IMDb-Movie-Ratings-Analyzer">IMDb Movie Ratings Analyzer</a></h4>
+#### [`IMDb Movie Ratings Analyzer`](https://github.com/Kmennn/IMDb-Movie-Ratings-Analyzer)
+**Web Scraping & EDA**
 
-<sub>Web scraping & exploratory data analysis</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=fff)
 
-<br/><br/>
+Web scraping with retry logic & rate-limiting · IMDb metadata pipeline · Rating distributions, genre breakdowns, decade analysis · Top directors ranking
 
-`Python` `BeautifulSoup` `Pandas` `Matplotlib`
-
-<br/>
-
-Scraping pipeline with retry logic and polite rate-limiting. Full IMDb metadata collection. Rating distributions, genre breakdowns, decade analysis. Top directors ranking.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/IMDb-Movie-Ratings-Analyzer">Source</a></sub>
+[`Source`](https://github.com/Kmennn/IMDb-Movie-Ratings-Analyzer)
 
 </td>
 </tr>
@@ -157,225 +136,223 @@ Scraping pipeline with retry logic and polite rate-limiting. Full IMDb metadata 
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/Loan_Default_Prediction">Loan Default Prediction</a></h4>
+#### [`Loan Default Prediction`](https://github.com/Kmennn/Loan_Default_Prediction)
+**ML-Powered Credit Risk Analysis**
 
-<sub>ML-powered credit risk analysis</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
 
-<br/><br/>
+End-to-end ML pipeline for default prediction · Feature engineering on financial datasets · Multi-model evaluation & comparison · Credit risk insights
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
-<br/>
-
-End-to-end ML pipeline for predicting loan defaults. Feature engineering on financial datasets. Model training, evaluation, and comparison. Data-driven credit risk insights.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/Loan_Default_Prediction">Source</a></sub>
+[`Source`](https://github.com/Kmennn/Loan_Default_Prediction)
 
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://github.com/Kmennn/Python-Video-Launcher">Python Video Launcher</a></h4>
+#### [`Python Video Launcher`](https://github.com/Kmennn/Python-Video-Launcher)
+**Desktop Video Player**
 
-<sub>Desktop video player application</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=000)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff)
 
-<br/><br/>
+Custom video player with smooth frame rendering · Custom playback controls · Tkinter GUI + OpenCV processing backend
 
-`Python` `Tkinter` `OpenCV`
-
-<br/>
-
-Custom desktop video player with smooth frame rendering. Custom playback controls. Tkinter GUI frontend with OpenCV video processing backend.
-
-<br/>
-
-<sub><a href="https://github.com/Kmennn/Python-Video-Launcher">Source</a></sub>
+[`Source`](https://github.com/Kmennn/Python-Video-Launcher)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>&nbsp;&nbsp;More repositories</summary>
+<summary><b>View More Projects & Academic Repos</b></summary>
 <br/>
 
-| | Description | Stack |
+| Repository | Description | Tech |
 |:---|:---|:---|
-| [VoteVerse Keeper](https://github.com/Kmennn) | Full-stack voting platform, real-time counting, live visualizations | React · TypeScript · Supabase |
-| [HealthStride Manager](https://github.com/Kmennn) | Role-aware healthcare dashboard, KPI cards, appointment management | React 18 · TypeScript · Vite |
-| [Valhalla Suite](https://github.com/Kmennn) | Restaurant microservices — 6 FastAPI services, Docker, Prometheus, Grafana | FastAPI · PostgreSQL · Docker |
-| [Third Year CS](https://github.com/Kmennn/Third-year-cs) | Data Structures, AI, ML coursework | Python |
-| [Second Year CS](https://github.com/Kmennn/Second-year-cs) | OOP, Data Structures & Algorithms | Java |
-| [First Year CS](https://github.com/Kmennn/first-year-cs) | Programming fundamentals | C |
-| [Portfolio](https://github.com/Kmennn/Virendra-Mahajan) | Personal portfolio on GitHub Pages | HTML · CSS · JS |
+| [VoteVerse Keeper](https://github.com/Kmennn) | Full-stack voting platform with real-time counting & live Recharts visualizations | `React` `TypeScript` `Supabase` |
+| [HealthStride Manager](https://github.com/Kmennn) | Role-aware healthcare dashboard (Admin/Doctor/Receptionist) with KPI cards | `React 18` `TypeScript` `Vite` |
+| [Valhalla Suite](https://github.com/Kmennn) | Restaurant microservices — 6 FastAPI services, Docker, Prometheus, Grafana, Jaeger | `FastAPI` `PostgreSQL` `Docker` |
+| [Third Year CS](https://github.com/Kmennn/Third-year-cs) | Data Structures, AI, ML coursework & implementations | `Python` |
+| [Second Year CS](https://github.com/Kmennn/Second-year-cs) | OOP, Data Structures & Algorithms | `Java` |
+| [First Year CS](https://github.com/Kmennn/first-year-cs) | Programming fundamentals & problem solving | `C` |
+| [Portfolio Website](https://github.com/Kmennn/Virendra-Mahajan) | Personal portfolio deployed on GitHub Pages | `HTML` `CSS` `JS` |
 
 </details>
 
-<br/>
-
 ---
 
-<br/>
-
-<h3 align="center">Stack</h3>
-
-<br/>
+### Tech Stack
 
 <div align="center">
 
-`React` `Next.js` `TypeScript` `Vite` `Three.js` `D3.js` `Tailwind CSS` `Framer Motion`
+**Frontend**
 
-`Node.js` `Express` `FastAPI` `REST APIs` `WebSockets`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=fff)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=fff)
+![Framer](https://img.shields.io/badge/Framer_Motion-05F?style=for-the-badge&logo=framer&logoColor=fff)
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `OpenCV`
+**Backend & APIs**
 
-`Firebase` `Google Cloud` `AWS` `Oracle Cloud` `Docker` `Vercel` `Nginx`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
-`PostgreSQL` `Supabase` `Firestore` `Redis` `SQLite`
+**Data Science & ML**
 
-`JavaScript` `TypeScript` `Python` `Java` `C++` `Dart`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff)
+
+**Cloud & DevOps**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff)
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
+
+**Languages & Tools**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 </div>
 
-<br/>
+---
+
+### Experience
+
+> **Full Stack Developer Intern** · Alpha Innovation Pvt Ltd
+> <br/> `Jun 2025 – Aug 2025` · Bengaluru
+>
+> Built & shipped frontend/backend features with React + REST APIs. Resolved UI bugs & API integration issues across QA cycles. Followed code reviews, Git workflows, and agile delivery processes.
+
+> **Data Science Intern (Virtual)** · SmartED Innovations
+> <br/> `Oct 2025 – Nov 2025` · Remote
+>
+> Python-based data handling, cleaning & analysis pipelines. Built statistical charts & distributions via matplotlib. End-to-end workflow: ingestion → cleaning → EDA → visualization.
+
+> **Tech Intern (Winter)** · Bharat Space Education Research Centre
+> <br/> `Dec 2025 – Jan 2026` · On-site
+>
+> Emerging tech orientation in defense-adjacent research. Training on data-driven applications in space/defense context.
 
 ---
 
-<br/>
-
-<h3 align="center">Experience</h3>
-
-<br/>
-
-**Full Stack Developer Intern** — Alpha Innovation Pvt Ltd
-<br/><sub>Jun 2025 – Aug 2025 · Bengaluru</sub>
-
-Shipped frontend and backend features with React and REST APIs. Resolved UI bugs and API integration issues across QA cycles. Code reviews, Git workflows, agile delivery.
-
-<br/>
-
-**Data Science Intern** — SmartED Innovations
-<br/><sub>Oct 2025 – Nov 2025 · Remote</sub>
-
-Python-based data pipelines — ingestion, cleaning, EDA, visualization. Statistical charts and distribution analysis with matplotlib.
-
-<br/>
-
-**Tech Intern** — Bharat Space Education Research Centre
-<br/><sub>Dec 2025 – Jan 2026 · On-site</sub>
-
-Emerging technology orientation in defense-adjacent research. Data-driven applications in space and defense contexts.
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">Certifications</h3>
-
-<br/>
+### Certifications
 
 <details>
-<summary>&nbsp;&nbsp;Cloud & Architecture — 5</summary>
+<summary><b>Cloud & Architecture — 5 Certifications</b></summary>
 <br/>
 
-- Oracle Cloud Infrastructure 2025 — Foundations Associate
-- Oracle Data Platform 2025 — Foundations Associate
-- Oracle Cloud Infrastructure 2025 — AI Foundations Associate
-- AWS Solutions Architect — Fundamentals of Architecting
-- AWS SimuLearn — Databases, Computing, Networking, Cloud Essentials
+| Certification | Issuer |
+|:---|:---|
+| Oracle Cloud Infrastructure 2025 – Foundations Associate | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff) |
+| Oracle Data Platform 2025 – Foundations Associate | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff) |
+| Oracle Cloud Infrastructure 2025 – AI Foundations Associate | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff) |
+| AWS Solutions Architect – Fundamentals of Architecting | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff) |
+| AWS SimuLearn: Databases, Computing, Networking | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff) |
 
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;Data Science & Machine Learning — 4</summary>
+<summary><b>Data Science & Machine Learning — 4 Certifications</b></summary>
 <br/>
 
-- Practical Machine Learning — Johns Hopkins University
-- Machine Learning for All — University of London
-- Data Science with Python — SmartED
-- Career Essentials in Data Analysis — Microsoft
+| Certification | Issuer |
+|:---|:---|
+| Practical Machine Learning | ![JHU](https://img.shields.io/badge/Johns_Hopkins-002D72?style=flat-square&logoColor=fff) |
+| Machine Learning for All | ![UoL](https://img.shields.io/badge/University_of_London-6B2D5B?style=flat-square&logoColor=fff) |
+| Data Science with Python | ![SmartED](https://img.shields.io/badge/SmartED-333?style=flat-square&logoColor=fff) |
+| Career Essentials in Data Analysis | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=fff) |
 
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;Full Stack & Software Engineering — 8</summary>
+<summary><b>Full Stack & Software Engineering — 8 Certifications</b></summary>
 <br/>
 
-- Java Full Stack Developer Specialization — Board Infinity
-- Frontend for Java Full Stack Development — Board Infinity
-- Data Structures & Backend with Java — Board Infinity
-- CPA: Programming Essentials in C++ — Cisco
-- Career Essentials in GitHub Professional Certificate — GitHub
-- EA Software Engineering Job Simulation — Forage
-- Accenture Coding & Advanced Engineering — Forage
-- Programming Fundamentals — Duke University
+| Certification | Issuer |
+|:---|:---|
+| Java Full Stack Developer Specialization | ![BI](https://img.shields.io/badge/Board_Infinity-333?style=flat-square&logoColor=fff) |
+| Frontend for Java Full Stack Development | ![BI](https://img.shields.io/badge/Board_Infinity-333?style=flat-square&logoColor=fff) |
+| Data Structures & Backend with Java | ![BI](https://img.shields.io/badge/Board_Infinity-333?style=flat-square&logoColor=fff) |
+| CPA – Programming Essentials in C++ | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=fff) |
+| Career Essentials in GitHub Professional Certificate | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff) |
+| EA – Software Engineering Job Simulation | ![Forage](https://img.shields.io/badge/Forage-333?style=flat-square&logoColor=fff) |
+| Accenture – Coding & Advanced Engineering | ![Forage](https://img.shields.io/badge/Forage-333?style=flat-square&logoColor=fff) |
+| Programming Fundamentals | ![Duke](https://img.shields.io/badge/Duke_University-012169?style=flat-square&logoColor=fff) |
 
 </details>
 
-<br/>
-
 ---
 
-<br/>
-
-<h3 align="center">Analytics</h3>
-
-<br/>
+### GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kmennn&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=484f58&text_color=8b949e&ring_color=21262d&rank_icon=github" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kmennn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&rank_icon=github" alt="Stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmennn&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=8" alt="languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmennn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kmennn&hide_border=true&background=00000000&stroke=21262d&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=8b949e" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kmennn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmennn&bg_color=00000000&color=8b949e&line=21262d&point=e6edf3&area=true&area_color=161b22&hide_border=true" alt="activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmennn&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb15&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<h3 align="center">Education</h3>
-
-<br/>
+### Education
 
 <div align="center">
 
-**B.Tech in Computer Science** — MIT ADT University, Pune
-<br/><sub>2023 – 2027</sub>
+**B.Tech in Computer Science** · MIT ADT University, Pune · `2023 – 2027`
 
-<br/>
-
-Artificial Intelligence · Machine Learning · Data Analytics · Data Structures · Database Management · Web Technologies
+`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Structures & Algorithms` · `Database Management` · `Web Technologies`
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
-<a href="https://kmennn.github.io/Virendra-Mahajan/">Portfolio</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/virendra-mahajan-44a3b7294">LinkedIn</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="mailto:virendramahajan2005@gmail.com">Email</a> &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; <a href="https://github.com/Kmennn">GitHub</a>
+<br/>
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://kmennn.github.io/Virendra-Mahajan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/virendra-mahajan-44a3b7294)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:virendramahajan2005@gmail.com)
 
-<sub>Code is like art — the clearer it reads, the deeper it connects.</sub>
+*"Code is like art — the clearer it reads, the deeper it connects."*
 
-<br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d2847&height=120&section=footer" width="100%"/>
 
 </div>
