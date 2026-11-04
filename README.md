@@ -26,7 +26,7 @@
 Final-year Computer Science student at **MIT ADT University, Pune**, working as an **AI engineer on LLM systems, RAG and agentic AI**.
 
 - 🚀 **Founder of [Planetary Compute Network](https://planetarycomputenetwork.online/)**, a platform that pools ordinary computers into one compute fabric for ML workloads
-- 🎓 Led a two-person team that built **[Proctora](https://proctora.app/)** (formerly ExamOne), an AI-graded exam platform adopted by MIT ADT University for about **7,000 students**
+- 🎓 Led a team that built **[Proctora](https://proctora.app/)** (formerly ExamOne), an AI-graded exam platform adopted by MIT ADT University for about **7,000 students**
 - 🏆 **Winner, IEEE National-Level AI Grand Challenge 2026** (AI for Agriculture), first of 40+ teams
 - 📄 Co-author of **[ARGUS](https://ieeexplore.ieee.org/document/11723909)**, published at IEEE ICCMRAI 2026
 - 💼 Three internships across full stack, data science and defence-tech research
