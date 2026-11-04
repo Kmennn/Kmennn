@@ -208,17 +208,17 @@ Manages student groups, mentors and weekly progress reports · Express + Prisma 
 
 | Repository | Description | Tech |
 |:---|:---|:---|
+| Valhalla Suite *(private)* | Restaurant microservices: FastAPI, Docker, RabbitMQ, Prometheus, Grafana | `FastAPI` `Docker` |
 | [AquaHome](https://github.com/Kmennn/Aqua) | Smart water usage analytics with IoT telemetry and Gemini insights | `Next.js` `Firebase` |
 | [SPCC Compiler Pipeline](https://github.com/Kmennn/spcc-compiler-pipeline) | Visual 3-stage compiler: macro processor, 3-address code, VM assembly | `Compilers` |
-| [Smart Traffic System](https://github.com/Kmennn/SmartTrafficSystem) | Smart traffic management system | `Python` |
 | [Loan Default Prediction](https://github.com/Kmennn/Loan_Default_Prediction) | ML credit-risk pipeline with a Streamlit app | `Python` `scikit-learn` |
+| [Smart Traffic System](https://github.com/Kmennn/SmartTrafficSystem) | Smart traffic management system | `Python` |
 | [IMDb Ratings Analyzer](https://github.com/Kmennn/IMDb-Movie-Ratings-Analyzer) | Scraping and EDA of IMDb data | `Python` `Pandas` |
+| [Portfolio Website](https://github.com/Kmennn/Virendra-Mahajan) | Personal portfolio on GitHub Pages | `React` |
 | [Python Video Launcher](https://github.com/Kmennn/Python-Video-Launcher) | Desktop video player | `Tkinter` `OpenCV` |
-| Valhalla Suite *(private)* | Restaurant microservices: FastAPI, Docker, RabbitMQ, Prometheus, Grafana | `FastAPI` `Docker` |
 | [Third Year CS](https://github.com/Kmennn/Third-year-cs) | Data structures, AI and ML coursework | `Python` |
 | [Second Year CS](https://github.com/Kmennn/Second-year-cs) | OOP, data structures and algorithms | `Java` |
 | [First Year CS](https://github.com/Kmennn/first-year-cs) | Programming fundamentals | `C` |
-| [Portfolio Website](https://github.com/Kmennn/Virendra-Mahajan) | Personal portfolio on GitHub Pages | `React` |
 
 </details>
 
