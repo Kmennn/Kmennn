@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d2847&height=220&section=header&text=Virendra%20Mahajan&fontSize=44&fontColor=e6edf3&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Founder%20of%20PCN&descSize=15&descColor=7d8590&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,55:db2777,100:2563eb&height=230&section=header&text=Virendra%20Mahajan&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Founder%20of%20PCN&descSize=16&descColor=f5f3ff&descAlignY=56&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Founder+of+Planetary+Compute+Network;Built+Proctora+%E2%80%94+used+by+~7%2C000+students;Winner+%E2%80%94+IEEE+National+AI+Grand+Challenge+2026;Published+at+IEEE+ICCMRAI+2026;B.Tech+CS+%40+MIT+ADT+University+(2023%E2%80%932027)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Founder+of+Planetary+Compute+Network;Built+Proctora+%E2%80%94+used+by+~7%2C000+students;Winner+%E2%80%94+IEEE+National+AI+Grand+Challenge+2026;Published+at+IEEE+ICCMRAI+2026;B.Tech+CS+%40+MIT+ADT+University+(2023%E2%80%932027)" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,7 +15,19 @@
 [![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=readdotcv&logoColor=58a6ff)](https://kmennn.github.io/Virendra-Mahajan/Virendra_Mahajan_Resume.pdf)
 [![IEEE](https://img.shields.io/badge/IEEE_Paper-0d1117?style=flat-square&logo=ieee&logoColor=00629b)](https://ieeexplore.ieee.org/document/11723909)
 
-<img src="https://komarev.com/ghpvc/?username=Kmennn&style=flat-square&color=161b22&label=Profile+Views&labelColor=0d1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kmennn&style=flat-square&color=6d28d9&label=Profile+Views&labelColor=0d1117" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- HIGHLIGHTS -->
+<table>
+<tr>
+<td align="center" width="25%"><h3>🚀</h3><b>Founder</b><br/><sub>Planetary Compute Network</sub></td>
+<td align="center" width="25%"><h3>~7,000</h3><b>Students</b><br/><sub>on Proctora at MIT ADT</sub></td>
+<td align="center" width="25%"><h3>🏆 1st</h3><b>IEEE AI Grand Challenge</b><br/><sub>of 40+ teams, 2026</sub></td>
+<td align="center" width="25%"><h3>📄 IEEE</h3><b>Published author</b><br/><sub>ARGUS, ICCMRAI 2026</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -364,17 +376,20 @@ Manages student groups, mentors and weekly progress reports · Express + Prisma 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kmennn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&rank_icon=github" alt="Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmennn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kmennn&theme=github_dark" alt="Profile details" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kmennn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kmennn&theme=github_dark" alt="Stats"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kmennn&theme=github_dark" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kmennn&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb15&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Kmennn&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=DB2777&currStreakLabel=A78BFA" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/8b5cf6/Kmennn" alt="Contribution chart" width="95%"/>
 
 </div>
 
@@ -406,6 +421,6 @@ CGPA **8.09 / 10** · Latest semester SGPA **9.00**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d2847&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,55:db2777,100:2563eb&height=120&section=footer" width="100%"/>
 
 </div>
